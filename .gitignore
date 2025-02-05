@@ -7,31 +7,8 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Node modules (if your Spring Boot uses Node.js)
 node_modules
 
 # Build output
-target/
 
-# IntelliJ specific files
-.idea/
-*.iml
-
-# Maven wrapper
-.mvn/
-mvnw
-mvnw.cmd
-
-# Compiled Java files
-*.class
-*.jar
-*.war
-*.ear
-
-# IDE-specific files (IntelliJ)
-*.ipr
-*.iws
-*.iml
-
-# OS-specific files
 .DS_Store
