@@ -83,8 +83,11 @@ Your Spring Boot backend will be running on http://localhost:8080.
 GET /api/employees: Get a list of all employees.
 
 POST /api/employees: Add a new employee.
+
 PUT /api/employees/{id}: Update an existing employee.
+
 DELETE /api/employees/{id}: Delete an employee by ID.
+
 💬 Contributing
 Contributions are always welcome! Feel free to fork this repository, submit issues, or make pull requests. Here's how you can contribute:
 
