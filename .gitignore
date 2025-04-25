@@ -12,3 +12,19 @@ node_modules
 # Build output
 
 .DS_Store
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+
+Thumbs.db
+
+# Build output
+/dist/
+/build/
+/target/
+
+# Docker
+.docker/
+docker-compose.override.yml
